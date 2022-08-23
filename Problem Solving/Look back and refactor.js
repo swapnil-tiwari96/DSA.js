@@ -1,0 +1,1 @@
+// The same problem from the last point - // Problem - Write a function that takes an input and returns counts of each character in a string.
